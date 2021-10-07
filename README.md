@@ -12,4 +12,4 @@ Head and shoulder is one of the patterns in technical analysis. For finding head
 
 - file: "rsi.py"
 
-RSI is a momentum indicator used in technical analysis. The RSI is displayed as a line graph that moves between two extremes. "# Pattern-recognition-in-finance" 
+RSI is a momentum indicator used in technical analysis. The RSI is displayed as a line graph that moves between two extremes. 
